@@ -1,2 +1,4 @@
 data.npy
 voting_clf.pkl
+resnet_data.npy
+resnet_labels.npy
